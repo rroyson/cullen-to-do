@@ -1,0 +1,35 @@
+{
+  "counter": 6,
+  "todos": [
+    {
+      "text": "pate",
+      "id": 1,
+      "completed": true
+    },
+    {
+      "text": "dog",
+      "id": 2,
+      "completed": true
+    },
+    {
+      "text": "cullen",
+      "id": 3,
+      "completed": true
+    },
+    {
+      "text": "cat",
+      "id": 4,
+      "completed": true
+    },
+    {
+      "text": "bird",
+      "id": 5,
+      "completed": true
+    },
+    {
+      "text": "tiger",
+      "id": 6,
+      "completed": true
+    }
+  ]
+}

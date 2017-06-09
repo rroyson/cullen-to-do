@@ -1,0 +1,20 @@
+{
+  "name": "tom-todos",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "todo": "index.js"
+  },
+  "scripts": {
+    "cli": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "number-to-words": "^1.2.3",
+    "ramda": "^0.24.1"
+  }
+}
